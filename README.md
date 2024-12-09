@@ -27,5 +27,7 @@ CAPTURAS DE PANTALLA
 ![PRQs](https://github.com/user-attachments/assets/63a7ed7f-efa1-4d80-aee7-e02d62648921)
 
 
+NOTA: Tuvimos un problema inicial al forkear el repo desde la P3 del profesor y no desde el propio repo original de go-bees.
+
 
 

@@ -1,44 +1,31 @@
-![header](https://cloud.githubusercontent.com/assets/6546265/22174630/785cdf04-dfe3-11e6-8cf4-024e8dc1c051.png)
+PRACTICA REALIZADA POR:
 
-[![ZenHub](https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)](https://zenhub.com)
-[![Build Status](https://travis-ci.org/davidmigloz/go-bees.svg?branch=master)](https://travis-ci.org/davidmigloz/go-bees)
-[![codecov](https://codecov.io/gh/davidmigloz/go-bees/branch/master/graph/badge.svg)](https://codecov.io/gh/davidmigloz/go-bees)
-[![Code Climate](https://codeclimate.com/github/davidmigloz/go-bees/badges/gpa.svg)](https://codeclimate.com/github/davidmigloz/go-bees)
-[![SonarQube](https://sonarqube.com/api/badges/gate?key=go-bees)](https://sonarqube.com/component_measures/?id=go-bees)
-[![Dependency Status](https://www.versioneye.com/user/projects/57f7b19e823b88004e06ad33/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/57f7b19e823b88004e06ad33)
-[![Documentation Status](https://readthedocs.org/projects/go-bees/badge/?version=develop)](http://go-bees.readthedocs.io/es/develop/?badge=develop)
+Aarón del Santo Izquierdo,
+Daniel Miguel Muiña,
+Héctor Sánchez García.
 
-GoBees allows beekepers to manage and monitor their apiaries.
+PASOS PARA UN COMMIT
 
-<a href="https://play.google.com/store/apps/details?id=com.davidmiguel.gobees">
-  <img src="http://gobees.io/img/google-play-badge.svg" height="60">
-</a>
+1. Clonamos el repositorio y nos posicionamos en el commit inicial 23b7b7.
+2. Creamos una nueva rama llamada "P3".
+3. Desde el issue indicado creamos un nuevo archivo de prueba para comprobar la realizacion de commits
+4. Una vez creado el archivo, lo guardamos e hicimos un pull del mismo para incluirlo en la rama.
+5. Fusionamos (merge) la rama simulada con la rama main.
 
-### Key features
 
-- Manage apiaries (name, location, notes…).
-- Manage hives (id, notes, last revision date…).
-- Monitor flight activity of a hive with the camera of your smartphone.
-- Analize the gathered data easily together with weather information.
-- Localize your apiaries on a map (using your favourite maps app).
-- Get current weather conditions in your apiaries.
+CAPTURAS DE PANTALLA
 
-**Supported languages:** English, Spanish, Catalan, Polish and Arabic.
+-GRAFICO DE COMMITS. A la derecha se puede ver los cambios que hemos realizado en el primero de ellos.
+![Commits](https://github.com/user-attachments/assets/fd04095a-1124-46f6-b2ed-2daa97998d70)
 
-Find more information on our website: http://gobees.io.
+-ARCHIVO DE PRUEBA
+![ArchivoDePrueba](https://github.com/user-attachments/assets/a2874c51-ca81-4de8-a15d-5a678bd4383d)
 
-GoBees!
+-INSIGHTS DEL PROYECTO
+![Pulse](https://github.com/user-attachments/assets/200d521a-f5b9-4593-a739-63a632d64038)
+![CodeFrequency](https://github.com/user-attachments/assets/d3ce6bae-1152-4f9d-ac00-37b593c4ff9d)
+![PRQs](https://github.com/user-attachments/assets/63a7ed7f-efa1-4d80-aee7-e02d62648921)
 
-## License
 
-Copyright (c) 2016 - 2017 David Miguel Lozano
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-any later version.
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
